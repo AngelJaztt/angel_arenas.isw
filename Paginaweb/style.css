@@ -1,0 +1,146 @@
+.Titulo {
+    text-align: center;
+    font-family: Arial;
+}
+
+
+.cuadro1 {
+   font-family: Arial;
+    display: inline;
+    position: relative;
+    left: 1050px;
+    bottom: 10px;
+    background-color: chocolate;
+    margin: 0px 15px 0px 0px;
+    border-radius: 20px;
+    border: solid 1px black; 
+    padding: 10px 15px 10px 15px;
+    
+}
+
+.cuadro2 {
+    font-family: Arial;
+    display: inline;
+    position: relative;
+    left: 1050px;
+    bottom: 10px;
+    background-color: chocolate;
+    margin: 0px 15px 0px 0px;
+    border-radius: 20px;
+    border: solid 1px black; 
+    padding: 10px 15px 10px 15px;
+}
+
+.cuadro3 {
+    font-family: Arial;
+    display: inline;
+    position: relative;
+    left: 1050px;
+    bottom: 10px;
+    background-color: chocolate;
+    margin: 0px 15px 0px 0px;
+    border-radius: 20px;
+    border: solid 1px black; 
+    padding: 10px 20px 10px 20px;
+}
+
+.patiovg {
+    width:"1000";
+    margin: 0 auto;
+    
+}
+
+
+.contenedor {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.subtitulo1 {
+    font-family: Arial;
+    color: rgb(255, 0, 13);
+}
+.parrafo {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.subtitulo2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+
+}
+
+.imagencontexto1 {
+    float: right;
+    width: 150px;
+    height: 150px;
+    
+}
+
+
+.cuadro4 {
+    
+    font-family: Arial;
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    top: 12px;
+    background-color: chocolate;
+    margin: 0px 15px 0px 0px;
+    border-radius: 20px;
+    border: solid 1px rgb(0, 0, 0); 
+    padding: 10px 20px 10px 20px;
+    
+}
+
+
+
+
+.subtitulo3 {
+    font-family: Arial;
+    color: red;
+    position: relative;
+    top: 40px;
+}
+
+.minisubtitulo1 {
+    font-family: Arial;
+    color: rgb(233, 177, 22);
+    position: relative;
+    top: 40px;
+    
+}
+.parrafo1s {
+   font-family: Arial;
+   position: relative;
+   top: 40px; 
+}
+.subtitulo4 {
+    font-family: Arial;
+    position: relative;
+    top: 40px;
+}
+
+.link {
+    position: relative;
+    top: 20px;
+    display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: fit-content; 
+  color: #0077cc;
+  text-decoration: none;
+  font-family: Arial;
+}
+.Imagenvgredes {
+    position: relative;
+    top: 50px;
+
+}
+
+.Imagencontacto {
+    position: relative;
+    top: 60px;
+ 
+}
